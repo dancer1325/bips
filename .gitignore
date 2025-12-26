@@ -4,3 +4,9 @@ bip-0174/coinjoin-workflow.pdf
 bip-0174/multisig-workflow.aux
 bip-0174/multisig-workflow.log
 bip-0174/multisig-workflow.pdf
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/bips.iml
+/.idea/editor.xml
+/.idea/modules.xml
+/.idea/vcs.xml
